@@ -29,4 +29,5 @@ Each machine gets its own markdown report, typically named after the target (e.g
 
 | Machine | Difficulty | Key Vulnerabilities |
 |---------|-----------|----------------------|
-| [Jangow 1.0.1](jangow-pentest-report.md) | Easy | OS Command Injection, Credential Reuse, CVE-2021-4034 (PwnKit) |
+| [Jangow 1.0.1](jangow/jangow-pentest-report.md) | Easy | OS Command Injection, Credential Reuse, CVE-2021-4034 (PwnKit) |
+| [Metasploitable2](metasploitable2/metasploitable2-pentest-report.md) | Easy | vsftpd 2.3.4 Backdoor (CVE-2011-2523) |
