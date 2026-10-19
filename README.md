@@ -1,8 +1,14 @@
-# VulnHub
+<h1 align="center"> VulnHub </h1>
 
-![VulnHub](https://img.shields.io/badge/VulnHub-1A2332?style=for-the-badge&logo=linuxcontainers&logoColor=white)
-![OffSec](https://img.shields.io/badge/Offensive%20Security-%23000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Pentest](https://img.shields.io/badge/Penetration%20Test-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+<p align="center">
+    <img src="docs/vulnhub-logo.jpg" alt="Jangow 1.0.1" width="600">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/VulnHub-1A2332?style=for-the-badge&logo=linuxcontainers&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Offensive%20Security-%23000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Penetration%20Test-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+</p>
 
 A personal collection of penetration testing write-ups for [VulnHub](https://www.vulnhub.com/) virtual machines, done for hands-on practice.
 
